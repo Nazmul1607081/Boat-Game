@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1623558256 source:f:\4-2\gdlab\finalproject\1607081_pirates_of_bengal\bmploader.cpp
+	"BmpLoader.h"
+	<stdio.h>
+	<iostream>
+
+1623558297 f:\4-2\gdlab\finalproject\1607081_pirates_of_bengal\bmploader.h
+	<windows.h>
+
+1623637722 source:f:\4-2\gdlab\finalproject\1607081_pirates_of_bengal\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	"BmpLoader.h"
+
+1426328128 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426328128 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
